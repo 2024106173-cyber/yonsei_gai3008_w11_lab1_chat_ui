@@ -49,9 +49,9 @@ flutter test
 ### 1. 채팅 UI 화면
 
 ![채팅 UI 실행 화면](docs/screenshots/chat-ui.png)
-
+![채팅 UI](docs/screenshots/chat-ui.png)
 ### 2. 오류와 재시도 화면
-
+![오류와 재시도](docs/screenshots/error-retry.png)
 ![오류 및 다시 시도 화면](docs/screenshots/error-retry.png)
 
 ## 변경 기록
